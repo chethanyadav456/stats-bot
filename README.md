@@ -6,6 +6,8 @@
 
 A simple Discord Server Stat Bot made in Javascript.
 
+If I get 25+ stars I will make an multiguild server-stats code.
+
 ## Installation
 
 Install my-project with npm
