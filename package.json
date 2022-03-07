@@ -1,0 +1,25 @@
+{
+  "name": "stats-bot",
+  "version": "1.0.0",
+  "description": "A discord stats bot.",
+  "main": "stats.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chethanyadav456/statsbot.git"
+  },
+  "keywords": [
+    "statsbot"
+  ],
+  "author": "chethanyadav456",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chethanyadav456/statsbot/issues"
+  },
+  "homepage": "https://github.com/chethanyadav456/statsbot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
